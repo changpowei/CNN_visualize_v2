@@ -116,7 +116,7 @@ spyder-kernels==1.9.0
 tabulate==0.8.7
 tensorboard==1.14.0
 tensorcv==0.1
-tensorflow==1.14.0
+tensorflow==2.9.3
 tensorflow-datasets==2.1.0
 tensorflow-estimator==1.14.0
 tensorflow-metadata==0.21.1
